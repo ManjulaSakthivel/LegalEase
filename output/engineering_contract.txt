@@ -1,0 +1,40 @@
+FREELANCE WORK CONTRACT
+
+Effective Date: April 15, 2026
+
+1. PARTIES
+
+Jane Doe (Service Provider), TechNova Inc. (Client)
+
+2. PURPOSE
+This draft records the principal terms supplied by the user for the above
+Freelance Work Contract.
+
+3. TERMS AND CONDITIONS
+
+1. Payment to be made within 30 days of invoice
+2. The provider agrees to deliver work by the agreed deadline
+3. Confidentiality must be maintained at all times
+4. Either party may terminate with 15 days notice
+
+4. GENERAL PROVISIONS
+
+The parties should review any provisions required by the applicable
+jurisdiction, including governing law, notices, dispute resolution,
+termination, and statutory requirements.
+
+5. SIGNATURES
+
+Party 1: ______________________________
+Name: _________________________________
+Date: __________________________________
+
+Party 2: ______________________________
+Name: _________________________________
+Date: __________________________________
+
+DRAFTING NOTICE
+
+This is a demonstration draft generated without a live Gemini API key.
+Replace the placeholder content with the live AI-generated version before
+using the application for actual drafting.
